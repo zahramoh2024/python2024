@@ -30,3 +30,5 @@ while 1:
             else:
                 print("done! this song deleted : ",list_of_songs.pop(num_of_song_to_delete-1))
 
+print("zahra")
+
